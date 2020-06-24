@@ -18,6 +18,8 @@ Currently runs single-threaded, supports only `Gomoku` rules, future plans:
 
 A live demo is hosted on: https://apps.yunzhu.li/gomoku
 
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://gomoku-yhm7035.endpoint.ainize.ai/)
+
 ![Alt text](gui/screenshots/00.png?raw=true "Screenshot")
 
 Run Your Own Copy
